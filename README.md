@@ -2,10 +2,6 @@
 
 This repository contains the project for the **Web Development** course. The goal of this project was to create a responsive **landing page** using **HTML** and **Bootstrap**.
 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C.svg?style=flat-square&logo=bootstrap)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26.svg?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6.svg?style=flat-square&logo=css3)
-
 ## Project Overview
 
 As part of the **Web Development** course, this project aims to demonstrate how to build a simple, yet effective, landing page for a business or product using the **Bootstrap framework**. This landing page is fully **responsive** and adapts to different screen sizes, ensuring a good user experience on both desktop and mobile devices.
